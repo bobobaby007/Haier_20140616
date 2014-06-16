@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;		public class MaskMain extends MovieClip{		static public var _self:MaskMain		public function MaskMain() {			_self=this			 _hide()		}		public function _hide(){			this.visible=false		}		public function _show(){			this.visible=true		}	}	}

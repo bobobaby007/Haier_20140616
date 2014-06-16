@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;		public class AgeSelecterBoard extends MovieClip{		static public var _self:AgeSelecterBoard		public function AgeSelecterBoard() {			_self=this		}		private function setup(){					}		public function _show(){			this.visible=true		}		public function _hide(){			this.visible=false		}	}	}

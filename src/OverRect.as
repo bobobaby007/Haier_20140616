@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;		public class OverRect extends MovieClip{		static public var _self:OverRect		public function OverRect() {						_self=this			_hide()		}		private function setup(){					}		public function _show(){			this.visible=true		}		public function _hide(){			this.visible=false		}	}	}

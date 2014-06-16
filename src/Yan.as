@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;		public class Yan extends MovieClip{		public function Yan() {			// constructor code		}	}	}

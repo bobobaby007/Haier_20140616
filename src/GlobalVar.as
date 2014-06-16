@@ -1,0 +1,1 @@
+﻿package  {		public class GlobalVar {		static public var _moveSpeed:Number=-0		static public var _color:Number=0x000000		static public var _mainWidth:Number=960		static public var _mainHeight:Number=600		public function GlobalVar() {			// constructor code		}	}	}

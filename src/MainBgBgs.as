@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;		public class MainBgBgs extends MovieClip{		static public var _self:MainBgBgs		public function MainBgBgs() {					}	}	}

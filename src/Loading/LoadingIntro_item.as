@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class LoadingIntro_item extends MovieClip {						public function LoadingIntro_item() {			// constructor code		}	}	}
